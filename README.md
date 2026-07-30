@@ -8,15 +8,20 @@
 - [Conclusion](#conclusion)
 
 ## Purpose
-XXX
+To set up an active directory environment and:
+- Detect unauthorised logins with Splunk
+- Automate responses using Shuffle (a SOAR platform)
 
 ## Utilities Used
    
-**Tool** - description
+**VULTR** - description
 - bullet point
    
-**Tool** - description
-- bullet point
+**Splunk** - description
+
+**Shuffle** - description
+
+**Slack** - description
 
 ## Project Walkthrough
 
