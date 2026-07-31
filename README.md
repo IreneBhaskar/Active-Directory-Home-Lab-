@@ -58,8 +58,10 @@ To set up an active directory environment and:
 <p align="center"> Step 11: Add a Firewall Group (under the Network dropdown) </p>
 <p align="center"> <img src="images\imagestep11.png" height="80%" width="80%"/> </p>
 
-<p align="center"> Step 12: Add an Inbound Firewall Rule allowing TCP port 22 (SSH) only from my public IP address. </p>
+<p align="center"> Step 12: Add two inbound firewall rules: allow TCP port 22 (SSH) and TCP port 3389 (MS RDP) only from my public IP address. </p>
 <p align="center"> <img src="images\imagestep12.png" height="80%" width="80%"/> </p>
+
+
 
 
 
