@@ -55,6 +55,13 @@ To set up an active directory environment and:
 <p align="center"> Step 10: All the virtual machines created can be seen in the Instances page </p>
 <p align="center"> <img src="images\imagestep10.png" height="80%" width="80%"/> </p>
 
+<p align="center"> Step 11: Add a Firewall Group (under the Network dropdown) </p>
+<p align="center"> <img src="images\imagestep11.png" height="80%" width="80%"/> </p>
+
+<p align="center"> Step 12: Add an Inbound Firewall Rule allowing TCP port 22 (SSH) only from my public IP address. </p>
+<p align="center"> <img src="images\imagestep12.png" height="80%" width="80%"/> </p>
+
+
 
 
 ## Findings
