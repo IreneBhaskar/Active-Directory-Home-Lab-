@@ -50,7 +50,10 @@ To set up an active directory environment and:
 <p align="center"> <img src="images\imagestep8.png" height="80%" width="80%"/> </p>
 
 <p align="center"> Step 9: Input the server hostname and deploy the Splunk machine </p>
-<p align="center"> <img src="images\imagestep6.png" height="80%" width="80%"/> </p>
+<p align="center"> <img src="images\imagestep9.png" height="80%" width="80%"/> </p>
+
+<p align="center"> Step 10: All the virtual machines created can be seen in the Instances page </p>
+<p align="center"> <img src="images\imagestep10.png" height="80%" width="80%"/> </p>
 
 
 
