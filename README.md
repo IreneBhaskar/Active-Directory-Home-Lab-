@@ -61,34 +61,34 @@ To set up an active directory environment and:
 <p align="center"> Step 12: Add two inbound firewall rules: allow TCP port 22 (SSH) and TCP port 3389 (MS RDP) only from my public IP address. </p>
 <p align="center"> <img src="images\imagestep12.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 13: description</p>
+<p align="center"> Step 13: Connect to the Domain Controller VM using Remote Desktop Connection </p>
 <p align="center"> <img src="images/imagestep13.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 14: description</p>
+<p align="center"> Step 14: Log in using the credentials specified in Vultr ("administrator") </p>
 <p align="center"> <img src="images/imagestep14.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 15: description</p>
+<p align="center"> Step 15: Check the domain controller VM's IP address using ipconfig in Command Prompt </p>
 <p align="center"> <img src="images/imagestep15.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 16: description</p>
+<p align="center"> Step 16: Add the Firewall previously created to all the VMs to cut off access to others </p>
 <p align="center"> <img src="images/imagestep16.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 17: description</p>
+<p align="center"> Step 17: Try out Vultr's console feature by opening the test machine VM </p>
 <p align="center"> <img src="images/imagestep17.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 18: description</p>
+<p align="center"> Step 18: Enable VPC (virtual private cloud) on the domain controller </p>
 <p align="center"> <img src="images/imagestep18.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 19: description</p>
+<p align="center"> Step 19: Enable VPC on the test machine. With a private IP, the VMs can now communicate with each other internally </p>
 <p align="center"> <img src="images/imagestep19.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 20: description</p>
+<p align="center"> Step 20: Using Windows PowerShell, SSH directly into the Splunk machine using Vultr's given credentials </p>
 <p align="center"> <img src="images/imagestep20.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 21: description</p>
+<p align="center"> Step 21: Check the Splunk machine's IP address using 'ip a' </p>
 <p align="center"> <img src="images/imagestep21.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 22: description</p>
+<p align="center"> Step 22: description </p>
 <p align="center"> <img src="images/imagestep22.png" height="80%" width="80%"/> </p>
 
 <p align="center">Step 23: description</p>
