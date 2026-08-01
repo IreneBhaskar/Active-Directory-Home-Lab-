@@ -88,25 +88,25 @@ To set up an active directory environment and:
 <p align="center"> Step 21: Check the Splunk machine's IP address using 'ip a' </p>
 <p align="center"> <img src="images/imagestep21.png" height="80%" width="80%"/> </p>
 
-<p align="center"> Step 22: description </p>
+<p align="center"> Step 22: Enable VPC on the Splunk machine </p>
 <p align="center"> <img src="images/imagestep22.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 23: description</p>
+<p align="center"> Step 23: When pinging the other domain controller and test machine, both destination hosts are said to be unreachable </p>
 <p align="center"> <img src="images/imagestep23.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 24: description</p>
+<p align="center"> Step 24: Upon inspection, it appears that the private IP and subnet mask of the VMs do not match what was shown in Vultr </p>
 <p align="center"> <img src="images/imagestep24.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 25: description</p>
+<p align="center"> Step 25: Change the Test Machine's IP and Subnet Mask into its Vultr configuration </p>
 <p align="center"> <img src="images/imagestep25.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 26: description</p>
+<p align="center"> Step 26: Check the Test Machine's updated IP with ipconfig </p>
 <p align="center"> <img src="images/imagestep26.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 27: description</p>
+<p align="center"> Step 27: Update the Domain Controller's IP and Subnet Mask as well </p>
 <p align="center"> <img src="images/imagestep27.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 28: description</p>
+<p align="center"> Step 28: Ping both VMs on the Splunk machine. Connection between the VMs are now successful </p>
 <p align="center"> <img src="images/imagestep28.png" height="80%" width="80%"/> </p>
 
 
