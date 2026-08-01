@@ -106,7 +106,7 @@ To set up an active directory environment and:
 <p align="center"> Step 27: Update the Domain Controller's IP and Subnet Mask as well </p>
 <p align="center"> <img src="images/imagestep27.png" height="80%" width="80%"/> </p>
 
-<p align="center"> Step 28: Ping both VMs on the Splunk machine. Connection between the VMs are now successful </p>
+<p align="center"> Step 28: Ping both VMs on the Splunk machine. Connections between the VMs are now successful </p>
 <p align="center"> <img src="images/imagestep28.png" height="80%" width="80%"/> </p>
 
 
