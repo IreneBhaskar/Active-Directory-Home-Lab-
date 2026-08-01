@@ -61,7 +61,53 @@ To set up an active directory environment and:
 <p align="center"> Step 12: Add two inbound firewall rules: allow TCP port 22 (SSH) and TCP port 3389 (MS RDP) only from my public IP address. </p>
 <p align="center"> <img src="images\imagestep12.png" height="80%" width="80%"/> </p>
 
+<p align="center">Step 13: description</p>
+<p align="center"> <img src="images/imagestep13.png" height="80%" width="80%"/> </p>
 
+<p align="center">Step 14: description</p>
+<p align="center"> <img src="images/imagestep14.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 15: description</p>
+<p align="center"> <img src="images/imagestep15.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 16: description</p>
+<p align="center"> <img src="images/imagestep16.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 17: description</p>
+<p align="center"> <img src="images/imagestep17.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 18: description</p>
+<p align="center"> <img src="images/imagestep18.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 19: description</p>
+<p align="center"> <img src="images/imagestep19.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 20: description</p>
+<p align="center"> <img src="images/imagestep20.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 21: description</p>
+<p align="center"> <img src="images/imagestep21.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 22: description</p>
+<p align="center"> <img src="images/imagestep22.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 23: description</p>
+<p align="center"> <img src="images/imagestep23.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 24: description</p>
+<p align="center"> <img src="images/imagestep24.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 25: description</p>
+<p align="center"> <img src="images/imagestep25.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 26: description</p>
+<p align="center"> <img src="images/imagestep26.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 27: description</p>
+<p align="center"> <img src="images/imagestep27.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 28: description</p>
+<p align="center"> <img src="images/imagestep28.png" height="80%" width="80%"/> </p>
 
 
 
