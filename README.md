@@ -109,84 +109,83 @@ To set up an active directory environment and:
 <p align="center"> Step 28: Ping both VMs on the Splunk machine. Connections between the VMs are now successful </p>
 <p align="center"> <img src="images/imagestep28.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 29: description</p>
+<p align="center"> Step 29: Open up the Server Manager on the Domain Controller Machine. Click 'Add roles and features' </p>
 <p align="center"> <img src="images/imagestep29.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 30: description</p>
+<p align="center"> Step 30: Select 'Active Directory Domain Services' to install active directory </p>
 <p align="center"> <img src="images/imagestep30.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 31: description</p>
+<p align="center"> Step 31: Click Install </p>
 <p align="center"> <img src="images/imagestep31.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 32: description</p>
+<p align="center"> Step 32: Click on the warning icon and 'promote this server to a domain controller' </p>
 <p align="center"> <img src="images/imagestep32.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 33: description</p>
+<p align="center"> Step 33: Select 'Add a new forest' and name the root domain </p>
 <p align="center"> <img src="images/imagestep33.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 34: description</p>
+<p align="center"> Step 34: Enter a password for the domain controller </p>
 <p align="center"> <img src="images/imagestep34.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 35: description</p>
+<p align="center"> Step 35: When all prerequisite checks are passed, click install </p>
 <p align="center"> <img src="images/imagestep35.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 36: description</p>
+<p align="center"> Step 36: Wait for the server to restart </p>
 <p align="center"> <img src="images/imagestep36.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 37: description</p>
+<p align="center"> Step 37: Create a new user </p>
 <p align="center"> <img src="images/imagestep37.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 38: description</p>
+<p align="center"> Step 38: Enter the details of the new user </p>
 <p align="center"> <img src="images/imagestep38.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 39: description</p>
+<p align="center"> Step 39: Enter a password for the new user </p>
 <p align="center"> <img src="images/imagestep39.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 40: description</p>
+<p align="center"> Step 40: On the test machine, change its domain from Workgroup to the domain previously created </p>
 <p align="center"> <img src="images/imagestep40.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 41: description</p>
+<p align="center"> Step 41: Enter the credentials of the domain controller machine </p>
 <p align="center"> <img src="images/imagestep41.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 42: description</p>
+<p align="center"> Step 42: An error thrown suggests a DNS issue </p>
 <p align="center"> <img src="images/imagestep42.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 43: description</p>
+<p align="center"> Step 43: Fix the DNS issue by entering the IP address of the domain controller into 'preferred DNS server' </p>
 <p align="center"> <img src="images/imagestep43.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 44: description</p>
+<p align="center"> Step 44: Try changing the test machine's domain again </p>
 <p align="center"> <img src="images/imagestep44.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 45: description</p>
+<p align="center"> Step 45: Enter the credentials of the domain controller </p>
 <p align="center"> <img src="images/imagestep45.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 46: description</p>
+<p align="center"> Step 46: The test machine's domain is now successfully changed </p>
 <p align="center"> <img src="images/imagestep46.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 47: description</p>
+<p align="center"> Step 47: After restarting the test machine, click 'Other user' and enter the credentials of the newly created user </p>
 <p align="center"> <img src="images/imagestep47.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 48: description</p>
+<p align="center"> Step 48: The user log on is successfully authenticated </p>
 <p align="center"> <img src="images/imagestep48.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 49: description</p>
+<p align="center"> Step 49: Try to RDP (remotely access) into the test machine by entering its public IP </p>
 <p align="center"> <img src="images/imagestep49.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 50: description</p>
+<p align="center"> Step 50: An error states that remote access to the user account is unauthorised </p>
 <p align="center"> <img src="images/imagestep50.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 51: description</p>
+<p align="center"> Step 51: Fix this error by heading to the remote desktop settings </p>
 <p align="center"> <img src="images/imagestep51.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 52: description</p>
+<p align="center"> Step 52: Add the new user as a 'Remote Desktop User' </p>
 <p align="center"> <img src="images/imagestep52.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 53: description</p>
+<p align="center">Step 53: Try to RDP into the test machine again </p>
 <p align="center"> <img src="images/imagestep53.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 54: description</p>
+<p align="center"> Step 54: The new user's account can now be accessed remotely </p>
 <p align="center"> <img src="images/imagestep54.png" height="80%" width="80%"/> </p>
-
 
 
 
