@@ -109,6 +109,84 @@ To set up an active directory environment and:
 <p align="center"> Step 28: Ping both VMs on the Splunk machine. Connections between the VMs are now successful </p>
 <p align="center"> <img src="images/imagestep28.png" height="80%" width="80%"/> </p>
 
+<p align="center">Step 29: description</p>
+<p align="center"> <img src="images/imagestep29.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 30: description</p>
+<p align="center"> <img src="images/imagestep30.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 31: description</p>
+<p align="center"> <img src="images/imagestep31.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 32: description</p>
+<p align="center"> <img src="images/imagestep32.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 33: description</p>
+<p align="center"> <img src="images/imagestep33.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 34: description</p>
+<p align="center"> <img src="images/imagestep34.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 35: description</p>
+<p align="center"> <img src="images/imagestep35.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 36: description</p>
+<p align="center"> <img src="images/imagestep36.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 37: description</p>
+<p align="center"> <img src="images/imagestep37.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 38: description</p>
+<p align="center"> <img src="images/imagestep38.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 39: description</p>
+<p align="center"> <img src="images/imagestep39.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 40: description</p>
+<p align="center"> <img src="images/imagestep40.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 41: description</p>
+<p align="center"> <img src="images/imagestep41.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 42: description</p>
+<p align="center"> <img src="images/imagestep42.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 43: description</p>
+<p align="center"> <img src="images/imagestep43.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 44: description</p>
+<p align="center"> <img src="images/imagestep44.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 45: description</p>
+<p align="center"> <img src="images/imagestep45.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 46: description</p>
+<p align="center"> <img src="images/imagestep46.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 47: description</p>
+<p align="center"> <img src="images/imagestep47.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 48: description</p>
+<p align="center"> <img src="images/imagestep48.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 49: description</p>
+<p align="center"> <img src="images/imagestep49.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 50: description</p>
+<p align="center"> <img src="images/imagestep50.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 51: description</p>
+<p align="center"> <img src="images/imagestep51.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 52: description</p>
+<p align="center"> <img src="images/imagestep52.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 53: description</p>
+<p align="center"> <img src="images/imagestep53.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 54: description</p>
+<p align="center"> <img src="images/imagestep54.png" height="80%" width="80%"/> </p>
+
 
 
 
