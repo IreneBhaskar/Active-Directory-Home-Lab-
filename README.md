@@ -189,6 +189,107 @@ To set up an active directory environment and:
 
 
 
+
+
+
+<p align="center">Step 55: description</p>
+<p align="center"> <img src="images/imagestep55.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 56: description</p>
+<p align="center"> <img src="images/imagestep56.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 57: description</p>
+<p align="center"> <img src="images/imagestep57.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 58: description</p>
+<p align="center"> <img src="images/imagestep58.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 59: description</p>
+<p align="center"> <img src="images/imagestep59.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 60: description</p>
+<p align="center"> <img src="images/imagestep60.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 61: description</p>
+<p align="center"> <img src="images/imagestep61.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 62: description</p>
+<p align="center"> <img src="images/imagestep62.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 63: description</p>
+<p align="center"> <img src="images/imagestep63.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 64: description</p>
+<p align="center"> <img src="images/imagestep64.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 65: description</p>
+<p align="center"> <img src="images/imagestep65.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 66: description</p>
+<p align="center"> <img src="images/imagestep66.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 67: description</p>
+<p align="center"> <img src="images/imagestep67.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 68: description</p>
+<p align="center"> <img src="images/imagestep68.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 69: description</p>
+<p align="center"> <img src="images/imagestep69.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 70: description</p>
+<p align="center"> <img src="images/imagestep70.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 71: description</p>
+<p align="center"> <img src="images/imagestep71.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 72: description</p>
+<p align="center"> <img src="images/imagestep72.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 73: description</p>
+<p align="center"> <img src="images/imagestep73.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 74: description</p>
+<p align="center"> <img src="images/imagestep74.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 75: description</p>
+<p align="center"> <img src="images/imagestep75.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 76: description</p>
+<p align="center"> <img src="images/imagestep76.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 77: description</p>
+<p align="center"> <img src="images/imagestep77.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 78: description</p>
+<p align="center"> <img src="images/imagestep78.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 79: description</p>
+<p align="center"> <img src="images/imagestep79.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 80: description</p>
+<p align="center"> <img src="images/imagestep80.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 81: description</p>
+<p align="center"> <img src="images/imagestep81.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 82: description</p>
+<p align="center"> <img src="images/imagestep82.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 83: description</p>
+<p align="center"> <img src="images/imagestep83.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 84: description</p>
+<p align="center"> <img src="images/imagestep84.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 85: description</p>
+<p align="center"> <img src="images/imagestep85.png" height="80%" width="80%"/> </p>
+
+<p align="center">Step 86: description</p>
+<p align="center"> <img src="images/imagestep86.png" height="80%" width="80%"/> </p>
+
+
+
 ## Findings
 XXX
 
