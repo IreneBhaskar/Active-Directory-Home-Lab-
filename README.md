@@ -232,34 +232,34 @@ To set up an active directory environment and:
 <p align="center"> Step 69: Add a new receiving port on port 9997 </p>
 <p align="center"> <img src="images/imagestep69.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 70: description</p>
+<p align="center"> Step 70: Download the Splunk Universal Forwarder for Windows </p>
 <p align="center"> <img src="images/imagestep70.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 71: description</p>
+<p align="center"> Step 71: Copy the download into the test machine. Complete the Universal Forwarder Setup on the test machine </p>
 <p align="center"> <img src="images/imagestep71.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 72: description</p>
+<p align="center"> Step 72: Enter in the private IP of the Splunk machine as the receiving indexer </p>
 <p align="center"> <img src="images/imagestep72.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 73: description</p>
+<p align="center"> Step 73: Copy the inputs.conf file from the 'default' directory into the 'local' directory </p>
 <p align="center"> <img src="images/imagestep73.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 74: description</p>
+<p align="center"> Step 74: Run Notepad as administrator and add the following into inputs.conf </p>
 <p align="center"> <img src="images/imagestep74.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 75: description</p>
+<p align="center"> Step 75: Change the SplunkForwarder Properties to log on as the Local System account instead of the Splunk Forwarder account. Restart SplunkForwarder to apply the changes </p>
 <p align="center"> <img src="images/imagestep75.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 76: description</p>
+<p align="center"> Step 76: Allow port 9997 on the Splunk machine </p>
 <p align="center"> <img src="images/imagestep76.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 77: description</p>
+<p align="center"> Step 77: Test for telemetry in Splunk by searching up the index previously created </p>
 <p align="center"> <img src="images/imagestep77.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 78: description</p>
+<p align="center"> Step 78: Repeat steps 71 - 75 on the domain controller machine </p>
 <p align="center"> <img src="images/imagestep78.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 79: description</p>
+<p align="center"> Step 79: description </p>
 <p align="center"> <img src="images/imagestep79.png" height="80%" width="80%"/> </p>
 
 <p align="center">Step 80: description</p>
