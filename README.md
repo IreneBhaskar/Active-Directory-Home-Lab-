@@ -266,22 +266,24 @@ To set up an active directory environment and:
 <p align="center"> <img src="images/imagestep80.png" height="80%" width="80%"/> </p>
 <p align="center"> *Event Code 4624 = An account was successfully logged on </p>
 
-<p align="center">Step 81: description</p>
+<p align="center"> Step 81: Modify query to specifically look for logon type 7 or 10 </p>
 <p align="center"> <img src="images/imagestep81.png" height="80%" width="80%"/> </p>
+<p align="center"> *Logon Type 7 = Unlock, ie. unattended workstation with password protected screen saver </p>
+<p align="center"> *Logon Type 10 = RemoteInteractive, ie. terminal services, remote desktop, remote assistance </p>
 
-<p align="center">Step 82: description</p>
+<p align="center"> Step 82: Inspect the details of these logins (time, account name, source network address, etc...) </p>
 <p align="center"> <img src="images/imagestep82.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 83: description</p>
+<p align="center"> Step 83: Modify the query to exclude events which IP addresses are not specified </p>
 <p align="center"> <img src="images/imagestep83.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 84: description</p>
+<p align="center"> Step 84: Assuming that the IP address of a workplace starts with 100, exclude IP addresses that start with 100 </p>
 <p align="center"> <img src="images/imagestep84.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 85: description</p>
+<p align="center"> Step 85: Create an alert that triggers with when an event occurs in this query </p>
 <p align="center"> <img src="images/imagestep85.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 86: description</p>
+<p align="center"> Step 86: Check if an alert was successfully triggered </p>
 <p align="center"> <img src="images/imagestep86.png" height="80%" width="80%"/> </p>
 
 
