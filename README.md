@@ -187,54 +187,49 @@ To set up an active directory environment and:
 <p align="center"> Step 54: The new user's account can now be accessed remotely </p>
 <p align="center"> <img src="images/imagestep54.png" height="80%" width="80%"/> </p>
 
-
-
-
-
-
-<p align="center">Step 55: description</p>
+<p align="center"> Step 55: Open PowerShell and SSH into the Splunk Machine </p>
 <p align="center"> <img src="images/imagestep55.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 56: description</p>
+<p align="center"> Step 56: Update all the repositories on the Splunk machine </p>
 <p align="center"> <img src="images/imagestep56.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 57: description</p>
+<p align="center"> Step 57: Download Splunk: select the .deb file under Linux </p>
 <p align="center"> <img src="images/imagestep57.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 58: description</p>
+<p align="center"> Step 58: Check if the file was installed using 'ls' </p>
 <p align="center"> <img src="images/imagestep58.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 59: description</p>
+<p align="center"> Step 59: Install Splunk </p>
 <p align="center"> <img src="images/imagestep59.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 60: description</p>
+<p align="center"> Step 60: Navigate into the Splunk directory </p>
 <p align="center"> <img src="images/imagestep60.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 61: description</p>
+<p align="center"> Step 61: Navigate into the 'bin' directory </p>
 <p align="center"> <img src="images/imagestep61.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 62: description</p>
+<p align="center"> Step 62: Run the Splunk binary </p>
 <p align="center"> <img src="images/imagestep62.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 63: description</p>
+<p align="center"> Step 63: Enter an administrator username and password </p>
 <p align="center"> <img src="images/imagestep63.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 64: description</p>
+<p align="center"> Step 64: Add an inbound firewall rule on Vultr: allow TCP port 8000 only from my public IP address </p>
 <p align="center"> <img src="images/imagestep64.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 65: description</p>
+<p align="center"> Step 65: Allow port 8000 on the Splunk machine </p>
 <p align="center"> <img src="images/imagestep65.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 66: description</p>
+<p align="center"> Step 66: Visit the test machine's public IP on a web browser and enter the administrator credentials </p>
 <p align="center"> <img src="images/imagestep66.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 67: description</p>
+<p align="center"> Step 67: Install the Splunk Add-on for Microsoft Windows </p>
 <p align="center"> <img src="images/imagestep67.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 68: description</p>
+<p align="center"> Step 68: Create a new index on Splunk </p>
 <p align="center"> <img src="images/imagestep68.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 69: description</p>
+<p align="center"> Step 69: Add a new receiving port on port 9997 </p>
 <p align="center"> <img src="images/imagestep69.png" height="80%" width="80%"/> </p>
 
 <p align="center">Step 70: description</p>
