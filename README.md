@@ -259,10 +259,10 @@ To set up an active directory environment and:
 <p align="center"> Step 78: Repeat steps 71 - 75 on the domain controller machine </p>
 <p align="center"> <img src="images/imagestep78.png" height="80%" width="80%"/> </p>
 
-<p align="center"> Step 79: description </p>
+<p align="center"> Step 79: The 'host' field on Splunk now reports two values, one for the test machine and the other for the domain controller </p>
 <p align="center"> <img src="images/imagestep79.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 80: description</p>
+<p align="center"> Step 80: description</p>
 <p align="center"> <img src="images/imagestep80.png" height="80%" width="80%"/> </p>
 
 <p align="center">Step 81: description</p>
