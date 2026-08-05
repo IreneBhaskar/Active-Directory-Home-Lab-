@@ -262,8 +262,9 @@ To set up an active directory environment and:
 <p align="center"> Step 79: The 'host' field on Splunk now reports two values, one for the test machine and the other for the domain controller </p>
 <p align="center"> <img src="images/imagestep79.png" height="80%" width="80%"/> </p>
 
-<p align="center"> Step 80: description</p>
+<p align="center"> Step 80: Add the event code 4624 to the Splunk search </p>
 <p align="center"> <img src="images/imagestep80.png" height="80%" width="80%"/> </p>
+<p align="center"> *Event Code 4624 = An account was successfully logged on </p>
 
 <p align="center">Step 81: description</p>
 <p align="center"> <img src="images/imagestep81.png" height="80%" width="80%"/> </p>
