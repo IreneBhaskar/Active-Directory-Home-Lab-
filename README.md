@@ -383,6 +383,8 @@ To set up an active directory environment and:
 <p align="center">Step 117: description</p>
 <p align="center"> <img src="images/imagestep117.png" height="80%" width="80%"/> </p>
 
+<p align="center">Step 118: description</p>
+<p align="center"> <img src="images/imagestep118.png" height="80%" width="80%"/> </p>
 
 ## Findings
 XXX
