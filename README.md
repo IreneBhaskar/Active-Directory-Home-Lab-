@@ -290,100 +290,100 @@ To set up an active directory environment and:
 
 
 
-<p align="center">Step 87: description</p>
+<p align="center"> Step 87: Log into Shuffle </p>
 <p align="center"> <img src="images/imagestep87.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 88: description</p>
+<p align="center"> Step 88: Create a new workflow </p>
 <p align="center"> <img src="images/imagestep88.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 89: description</p>
+<p align="center"> Step 89: Drag a webhook which will receive the Splunk alerts </p>
 <p align="center"> <img src="images/imagestep89.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 90: description</p>
+<p align="center"> Step 90: Add a webhook in the Splunk alert's settings </p>
 <p align="center"> <img src="images/imagestep90.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 91: description</p>
+<p align="center"> Step 91: Paste the Shuffle URI into the Splunk webhook </p>
 <p align="center"> <img src="images/imagestep91.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 92: description</p>
+<p align="center"> Step 92: Check for functionality in Shuffle </p>
 <p align="center"> <img src="images/imagestep92.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 93: description</p>
+<p align="center"> Step 93: Click a Shuffle workflow run to find all the details from the Splunk alert </p>
 <p align="center"> <img src="images/imagestep93.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 94: description</p>
+<p align="center"> Step 94: Log on and Create a new workspace in Slack </p>
 <p align="center"> <img src="images/imagestep94.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 95: description</p>
+<p align="center"> Step 95: Create a channel within the workspace </p>
 <p align="center"> <img src="images/imagestep95.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 96: description</p>
+<p align="center"> Step 96: Drag a Slack node onto the Shuffle build to generate a chat post message </p>
 <p align="center"> <img src="images/imagestep96.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 97: description</p>
+<p align="center"> Step 97: Authenticate Slack credentials in Shuffle </p>
 <p align="center"> <img src="images/imagestep97.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 98: description</p>
+<p align="center"> Step 98: Create a text description to be shown in Slack </p>
 <p align="center"> <img src="images/imagestep98.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 99: description</p>
+<p align="center"> Step 99: Link the Slack channel to Shuffle </p>
 <p align="center"> <img src="images/imagestep99.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 100: description</p>
+<p align="center"> Step 100: Add the Shuffle SOAR Bot to the Slack channel </p>
 <p align="center"> <img src="images/imagestep100.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 101: description</p>
+<p align="center"> Step 101: Test for the workflow's functionality </p>
 <p align="center"> <img src="images/imagestep101.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 102: description</p>
+<p align="center"> Step 102: Epoch time is shown in Slack. add a python node to convert it GMT </p>
 <p align="center"> <img src="images/imagestep102.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 103: description</p>
+<p align="center"> Step 103: Build a python code to convert Epoch time to GMT </p>
 <p align="center"> <img src="images/imagestep103.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 104: description</p>
+<p align="center"> Step 104: Update the Alert notification to use the converted time instead </p>
 <p align="center"> <img src="images/imagestep104.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 105: description</p>
+<p align="center"> Step 105: Rerun the workflow to check for functionality </p>
 <p align="center"> <img src="images/imagestep105.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 106: description</p>
+<p align="center"> Step 106: Add a User Action node which will send email when the Splunk alert is triggered </p>
 <p align="center"> <img src="images/imagestep106.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 107: description</p>
+<p align="center"> Step 107: Run the workflow to check for functionality </p>
 <p align="center"> <img src="images/imagestep107.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 108: description</p>
+<p align="center"> Step 108: Add an active directory node to take action on the alert </p>
 <p align="center"> <img src="images/imagestep108.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 109: description</p>
+<p align="center"> Step 109: Authenticate using the domain controller's administrator credentials </p>
 <p align="center"> <img src="images/imagestep109.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 110: description</p>
+<p align="center"> Step 110: Input the following PowerShell command on domain controller </p>
 <p align="center"> <img src="images/imagestep110.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 111: description</p>
+<p align="center"> Step 111: Copy the value shown under 'UsersContainer' and paste it under 'base_dn' </p>
 <p align="center"> <img src="images/imagestep111.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 112: description</p>
+<p align="center"> Step 112: Select the 'disable user' option under the active directory node. And specify the user to be disabled. </p>
 <p align="center"> <img src="images/imagestep112.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 113: description</p>
+<p align="center"> Step 113: Add Slack node for an update notification to inform if user has been disabled </p>
 <p align="center"> <img src="images/imagestep113.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 114: description</p>
+<p align="center"> Step 114: The user to be disabled </p>
 <p align="center"> <img src="images/imagestep114.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 115: description</p>
+<p align="center"> Step 115: After some time, the alert notification will be sent </p>
 <p align="center"> <img src="images/imagestep115.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 116: description</p>
+<p align="center"> Step 116: Click the URL for 'true' to disable the user </p>
 <p align="center"> <img src="images/imagestep116.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 117: description</p>
+<p align="center"> Step 117: A notification on Slack notifies that the user has been disabled </p>
 <p align="center"> <img src="images/imagestep117.png" height="80%" width="80%"/> </p>
 
-<p align="center">Step 118: description</p>
+<p align="center"> Step 118: The down pointing arrow besides the user indicates that the user has been disabled </p>
 <p align="center"> <img src="images/imagestep118.png" height="80%" width="80%"/> </p>
 
 ## Findings
